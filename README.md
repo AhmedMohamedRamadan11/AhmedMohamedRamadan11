@@ -27,7 +27,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp%20-05122A?style=flat&logo=Csharp)&nbsp;
+![sqlserver](https://img.shields.io/badge/-sqlserver%20-05122A?style=flat&logo=sqlserver)&nbsp;
+![.netcore](https://img.shields.io/badge/-.netcore%20-05122A?style=flat&logo=.netcore)&nbsp;
+![angular](https://img.shields.io/badge/-angular%20-05122A?style=flat&logo=angular)&nbsp;
+![entityframeworkcore](https://img.shields.io/badge/-entityframeworkcore%20-05122A?style=flat&logo=entityframeworkcore)&nbsp;
+![linq](https://img.shields.io/badge/-linq%20-05122A?style=flat&logo=linq)&nbsp;
+![c++](https://img.shields.io/badge/-c++%20-05122A?style=flat&logo=c++)&nbsp;
 
